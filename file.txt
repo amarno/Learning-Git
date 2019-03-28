@@ -1,3 +1,4 @@
 My new Git file :-)
 The second line of text 
+The third line of text
 
